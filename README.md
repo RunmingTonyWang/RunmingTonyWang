@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RunmingTonyWang
+- 👋 Hi, I’m Runming (Tony) Wang
 - 👀 I’m interested in neuroengineering and biointerfaces.
 - 🌱 I’m currently a BME PhD student at Johns Hopkins University, Machine Biointerface Lab
 - 📫 How to reach me: runming.wang@gmail.com or rwang152@jh.edu
